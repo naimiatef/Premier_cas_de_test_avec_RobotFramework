@@ -1,7 +1,7 @@
 # Premier_cas_de_test_avec_RobotFramework
-Premier cas de test avec RobotFramework
 
-*** Settings ***
+
+*** Settings *** <br>
 Library    SeleniumLibrary
 *** Test Cases ***
 premier test
