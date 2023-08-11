@@ -2,11 +2,11 @@
 
 
 *** Settings *** <br>
-Library    SeleniumLibrary
-*** Test Cases ***
-premier test
-    log    Hello world
-TC1
-    open browser    https://naimiatef.systeme.io/test-logiciel    Chrome
-    maximize browser window
+Library    SeleniumLibrary<br>
+*** Test Cases ***<br>
+premier test<br>
+    log    Hello world<br>
+TC1<br>
+    open browser    https://naimiatef.systeme.io/test-logiciel    Chrome<br>
+    maximize browser window<br>
     sleep    5s
